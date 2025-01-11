@@ -20,7 +20,7 @@ This is my mod collection for the game [Balatro](https://store.steampowered.com/
 For information about all the Jokers and other things in this mod, check out [the website](https://MikaSchoenmakers.github.io/MikasBalatro/).
 
 ### Decks
-### Even Steven's Deck
+#### Even Steven's Deck
 Only even cards. Starts with the **_Even Steven_** joker.
 
 #### Odd Todd's Deck
