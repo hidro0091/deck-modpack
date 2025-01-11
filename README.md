@@ -1,10 +1,5 @@
 # deck-modpack
-werttwetwewerweqrw
-<div align="center">
-    <img src="./gitresources/LogoFullFlat.png" alt="Mika's Mod Collection"/>
-</div>
-
-<br/>
+This readme includes every readme of every deck mod included in here... help me lmao
 
 ## Mika's Balatro Mod Collection
 This is my mod collection for the game [Balatro](https://store.steampowered.com/app/2379780/Balatro/), containing 60 Jokers, 2 Tarots, 1 Spectral and 7 Decks.
